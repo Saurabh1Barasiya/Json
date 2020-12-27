@@ -1,0 +1,7 @@
+{
+    "employee": {
+        "married": false,
+        "name": "priya ranjan",
+        "salary": 56000
+    }
+}
